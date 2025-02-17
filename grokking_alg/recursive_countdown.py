@@ -7,7 +7,7 @@ def countdown (i):
         
 
 countdown(3)
-countdown(-1)
+countdown(-122)
 countdown(0)
 countdown(1)
 countdown(10)
